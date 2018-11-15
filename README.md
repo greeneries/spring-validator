@@ -11,7 +11,6 @@
 ```
 
 ##### 입력한 데이터 validation 체크하는 방법
-########
 ```
 	public void validate(
 			Object target, // 사용자가 작성한 데이터를 보관하는 객체
