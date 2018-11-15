@@ -21,5 +21,5 @@
 ```
 
 <div>
-	<img width="300" src="https://user-images.githubusercontent.com/42959261/48530771-a72d1980-e8dc-11e8-80bb-f0fc8bcfda02.JPG">
+	<img width="200" src="https://user-images.githubusercontent.com/42959261/48530771-a72d1980-e8dc-11e8-80bb-f0fc8bcfda02.JPG">
 </div>
